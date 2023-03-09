@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+ol,
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    vertical-align: middle;
+}
+
+body {}
+
+.wrapper_full {
+    width: 100%;
+}
+
+.wrapper {
+    width: 960px;
+}
+
+.pt_80 {
+    padding-top: 80px;
+}
+
+.mt_80 {
+    margin-top: 80px;
+}
+.mt_60{
+    margin-top: 60px;
+}
+.pt_60{
+    padding-top: 60px;
+}
+.py_70{
+padding: 70px 0px;
+}
+.pb_60{
+    padding-bottom: 60px;
+}
+
+/*header part start*/
+.menu_item ul {
+    margin-left: auto;
+}
+.menu_item ul li a{
+    color: #fff;
+}
+
+/*header part end*/
